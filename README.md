@@ -1,2 +1,6 @@
-# Lab2devops2022
-ECE Lab2 of devops
+# Lab2 devops
+
+## ECE 2022 class of devops
+
+
+First changes idk what to do
